@@ -4,3 +4,7 @@ langchain
 langchain_community
 openai
 python-dotenv
+plotly 
+seaborn
+FPDF
+BytesIO
